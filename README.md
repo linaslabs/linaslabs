@@ -50,5 +50,5 @@ Im always available to connect and collaborate!
 
 ---
 
-## 🌟 Fact about me
+## 🌟 Fact :)
 When I’m not working on anything, I’m probably exploring games or out playing some sport!⚽
