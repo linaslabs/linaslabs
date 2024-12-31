@@ -45,7 +45,7 @@ A dynamic web app for Premier League enthusiasts to access PL data and matches f
 
 ## 📫 How to Reach Me  
 Im always available to connect and collaborate!  
-- **Email**: your-email@example.com  
+- **Email**: linasabel87@gmail.com 
 - **LinkedIn**: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/abel-linas/)
 
 ---
