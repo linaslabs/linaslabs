@@ -8,10 +8,10 @@
 I'm an enthusiastic computer science student passionate about problem-solving and building applications that make an impact. While I’m currently exploring web development, I’m eager to dive into various domains of software engineering to find my niche. 
 
 ✨ **Languages and Skills**:  
-- **Frontend**: HTML, CSS, JavaScript  
+- **Frontend**: React, Next.js, HTML, CSS, JavaScript  
 - **Backend**: Node.js, Express.js  
-- **Databases**: MongoDB  
-- **Other Languages**: Java, C#, Python
+- **Databases**: MongoDB, PostgreSQL  
+- **Other Languages**: Java, C#, Javascript
 - **Tools & Platforms**: Git, GitHub 
 
 🎯 **Goals**:  
@@ -23,22 +23,29 @@ I'm an enthusiastic computer science student passionate about problem-solving an
 ## 💻 My Projects  
 Here are some of the projects I’ve been working on:
 
+### **🎓 GradePilot**
+Currently a work in progress, full stack application to manage your University year!
+- **Tech Stack**: React, Node.js, Express.js, PostgreSQL (with Prisma and Supabase), TailwindCSS - JWT for authentication
+- **[Repository Link](https://github.com/linaslabs/GradePilot)**
+
 ### **📒 Note-Y**
-A full-stack note-taking web app that allows users to create, edit, delete and search their own notes!
+A full-stack note-taking application that allows users to create, edit, delete and search their own notes!
 - **Tech Stack**: Node.js, Express.js, MongoDB, HTML/CSS - Along with PassportJS for authentication
 - **Features**: CRUD operations, responsive design  
-- **[Repository Link](https://github.com/linaslabs/Note-Y)**  
+- **[Repository Link](https://github.com/linaslabs/Note-Y)**
+- **[Live Demo](https://note-y.onrender.com)**
 
 ### **🎮 LeagueHub**  
 A dynamic web app for Premier League enthusiasts to access PL data and matches for your own team!  
 - **Tech Stack**: Node.js, HTML/CSS, JavaScript  
 - **[Repository Link](https://github.com/linaslabs/LeagueHub)**  
+- **[Live Demo](https://leaguehub.onrender.com)**
 
 ---
 
 ## 🌱 What I’m Currently Learning  
-- Deepening my backend expertise with **Express.js** and **MongoDB**.  
-- Exploring **frontend frameworks** like React.js to complement my backend knowledge.  
+- Deepening my backend expertise with **Express.js** and **PostgreSQL**.  
+- Deepening my front end knowledge with **frontend frameworks** like React.js and Next.js to complement my backend knowledge.  
 - Improving my understanding of **software engineering principles**.
 
 ---
