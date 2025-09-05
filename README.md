@@ -27,6 +27,7 @@ Here are some of the projects I’ve been working on:
 Currently a work in progress, full stack application to manage your University year!
 - **Tech Stack**: React, Node.js, Express.js, PostgreSQL (with Prisma and Supabase), TailwindCSS - JWT for authentication
 - **[Repository Link](https://github.com/linaslabs/GradePilot)**
+- - **[Live Demo](https://grade-pilot-gold.vercel.app/)**
 
 ### **📒 Note-Y**
 A full-stack note-taking application that allows users to create, edit, delete and search their own notes!
