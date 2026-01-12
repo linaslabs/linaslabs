@@ -37,7 +37,7 @@ A full-stack note-taking application that allows users to create, edit, delete a
 
 ### **🎮 Network Intrusion Detector**  
 A low level system showcasing the ability of C to sniff, parse and process packets of data on the network!
-- **[Repository Link]([https://github.com/linaslabs/LeagueHub](https://github.com/linaslabs/Network-Intrusion-Detector))** 
+- **[Repository Link](https://github.com/linaslabs/Network-Intrusion-Detector)** 
 
 ---
 
