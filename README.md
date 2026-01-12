@@ -11,8 +11,8 @@ I'm an enthusiastic computer science student passionate about problem-solving an
 - **Frontend**: React, Next.js, HTML, CSS, JavaScript  
 - **Backend**: Node.js, Express.js  
 - **Databases**: MongoDB, PostgreSQL  
-- **Other Languages**: Java, C#, Javascript
-- **Tools & Platforms**: Git, GitHub 
+- **Other Languages**: Java, Python, Javascript, Typescript, C#, C
+- **Tools & Platforms**: Git, GitHub, VSCode (of course)
 
 🎯 **Goals**:  
 - Master full-stack development by building impactful projects.  
@@ -32,22 +32,20 @@ Currently a work in progress, full stack application to manage your University y
 ### **📒 Note-Y**
 A full-stack note-taking application that allows users to create, edit, delete and search their own notes!
 - **Tech Stack**: Node.js, Express.js, MongoDB, HTML/CSS - Along with PassportJS for authentication
-- **Features**: CRUD operations, responsive design  
 - **[Repository Link](https://github.com/linaslabs/Note-Y)**
 - **[Live Demo](https://note-y.onrender.com)**
 
-### **🎮 LeagueHub**  
-A dynamic web app for Premier League enthusiasts to access PL data and matches for your own team!  
-- **Tech Stack**: Node.js, HTML/CSS, JavaScript  
-- **[Repository Link](https://github.com/linaslabs/LeagueHub)**  
-- **[Live Demo](https://leaguehub.onrender.com)**
+### **🎮 Network Intrusion Detector**  
+A low level system showcasing the ability of C to sniff, parse and process packets of data on the network!
+- **[Repository Link]([https://github.com/linaslabs/LeagueHub](https://github.com/linaslabs/Network-Intrusion-Detector))** 
 
 ---
 
 ## 🌱 What I’m Currently Learning  
+- Improving my understanding of software engineering principles.
+- Exploring the fundamentals of **networks** and **C**.
 - Deepening my backend expertise with **Express.js** and **PostgreSQL**.  
-- Deepening my front end knowledge with **frontend frameworks** like React.js and Next.js to complement my backend knowledge.  
-- Improving my understanding of **software engineering principles**.
+- Deepening my front end knowledge with frontend frameworks like **React.js** and **Next.js** to complement my backend knowledge.  
 
 ---
 
@@ -58,5 +56,4 @@ Im always available to connect and collaborate!
 
 ---
 
-## 🌟 Fact :)
-When I’m not working on anything, I’m probably exploring games or out playing some sport!⚽
+When I’m not working on anything, I’m probably grinding for internships or out playing some sport!⚽
