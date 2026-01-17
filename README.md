@@ -16,7 +16,8 @@ I'm an enthusiastic computer science student passionate about problem-solving an
 
 🎯 **Goals**:  
 - Master full-stack development by building impactful projects.  
-- Gain real-world experience through internships and collaborations.  
+- Gain real-world experience through internships and collaborations.
+- Understand networks, devops and cloud engineering!
 
 ---
 
@@ -42,10 +43,10 @@ A low level system showcasing the ability of C to sniff, parse and process packe
 ---
 
 ## 🌱 What I’m Currently Learning  
+- Taking part in a hackathon to develop experience in **React.js** and **Next.js** to complement my backend knowledge.  
 - Improving my understanding of software engineering principles.
 - Exploring the fundamentals of **networks** and **C**.
 - Deepening my backend expertise with **Express.js** and **PostgreSQL**.  
-- Deepening my front end knowledge with frontend frameworks like **React.js** and **Next.js** to complement my backend knowledge.  
 
 ---
 
