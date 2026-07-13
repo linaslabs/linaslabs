@@ -1,20 +1,20 @@
 # Hi there, I'm Abel 👋  
 🎓 **MEng Computer Science Student @ Warwick University**  
-🌱 Aspiring **Software Engineer** | Exploring **Web Development**  
+🌱 Aspiring **Software Engineer** | Exploring **Web Development** and **Infrastructure** 
 
 ---
 
 ## 🚀 About Me  
-I'm an enthusiastic computer science student passionate about problem-solving and building applications that make an impact. While I’m currently exploring web development, I’m eager to dive into various domains of software engineering to find my niche. 
+I'm an enthusiastic computer science student passionate about problem-solving and building applications that make an impact. While I’m currently building web applications and exploring the Cloud , I’m eager to dive into various domains of software engineering to find my niche. 
 
 ✨ **Languages and Skills**:  
-- **Frontend**: React, Next.js, HTML, CSS, JavaScript  
-- **Backend**: Node.js, Express.js  
+- **Frontend**: React, Next.js, HTML, CSS, JavaScript
+- **Backend**: Node.js, Express.js, Kafka, gRPC, REST
 - **Databases**: MongoDB, PostgreSQL  
-- **Other Languages**: Java, Python, Javascript, Typescript, C#, C
+- **Other Languages**: Java, Python, Go, Javascript, Typescript, C#, C
 - **Tools & Platforms**: Git, GitHub, VSCode (of course)
 
-🎯 **Goals**:  
+🎯 **Goals**: 
 - Master full-stack development by building impactful projects.  
 - Gain real-world experience through internships and collaborations.
 - Understand networks, devops and cloud engineering!
@@ -30,23 +30,27 @@ Currently a work in progress, full stack application to manage your University y
 - **[Repository Link](https://github.com/linaslabs/GradePilot)**
 - **[Live Demo](https://grade-pilot-gold.vercel.app/)**
 
-### **📒 Note-Y**
-A full-stack note-taking application that allows users to create, edit, delete and search their own notes!
-- **Tech Stack**: Node.js, Express.js, MongoDB, HTML/CSS - Along with PassportJS for authentication
-- **[Repository Link](https://github.com/linaslabs/Note-Y)**
-- **[Live Demo](https://note-y.onrender.com)**
+### **🏃 TruePace**
+An agentic AI running coach! Reach your TruePace - have a running schedule fit for your needs!
+- **Tech Stack**: TypeScript, Next.js (App Router), React, Tailwind CSS, Vercel, PostgreSQL, Gemini, Supabase
+- **[Repository Link](https://github.com/linaslabs/truepace-hackathon)**
+- **[Live Demo (tbc)]**
 
 ### **🛜 Network Intrusion Detector**  
 A low level system showcasing the ability of C to sniff, parse and process packets of data on the network!
-- **[Repository Link](https://github.com/linaslabs/Network-Intrusion-Detector)** 
+- **[Repository Link](https://github.com/linaslabs/Network-Intrusion-Detector)**
+  
+### **🛜 Airport Operations Simulation**  
+A robust, web-based simulation engine designed to optimise airport throughput, manage air traffic queues, and model complex operational scenarios ;)
+- **[Repository Link](https://github.com/linaslabs/Airport-Simulation-Project)**
 
 ---
 
 ## 🌱 What I’m Currently Learning  
-- Taking part in a hackathon to develop experience in **React.js** and **Next.js** to complement my backend knowledge.  
 - Improving my understanding of software engineering principles.
-- Exploring the fundamentals of **networks** and **C**.
-- Deepening my backend expertise with **Express.js** and **PostgreSQL**.  
+- Exploring the fundamentals of **networks** and the **Cloud**.
+- Working with **Go** and **gRPC**.
+- Deepening my expertise with building applications in **React** and **Typescript**.  
 
 ---
 
