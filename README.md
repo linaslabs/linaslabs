@@ -40,7 +40,7 @@ An agentic AI running coach! Reach your TruePace - have a running schedule fit f
 A low level system showcasing the ability of C to sniff, parse and process packets of data on the network!
 - **[Repository Link](https://github.com/linaslabs/Network-Intrusion-Detector)**
   
-### **🛜 Airport Operations Simulation**  
+### **✈️ Airport Operations Simulation**  
 A robust, web-based simulation engine designed to optimise airport throughput, manage air traffic queues, and model complex operational scenarios ;)
 - **[Repository Link](https://github.com/linaslabs/Airport-Simulation-Project)**
 
