@@ -34,7 +34,6 @@ Currently a work in progress, full stack application to manage your University y
 An agentic AI running coach! Reach your TruePace - have a running schedule fit for your needs!
 - **Tech Stack**: TypeScript, Next.js (App Router), React, Tailwind CSS, Vercel, PostgreSQL, Gemini, Supabase
 - **[Repository Link](https://github.com/linaslabs/truepace-hackathon)**
-- **[Live Demo (tbc)]**
 
 ### **🛜 Network Intrusion Detector**  
 A low level system showcasing the ability of C to sniff, parse and process packets of data on the network!
