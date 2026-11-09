@@ -9,14 +9,15 @@ I'm an enthusiastic computer science student passionate about problem-solving an
 
 ✨ **Languages and Skills**:  
 - **Frontend**: React, Next.js, HTML, CSS, JavaScript
-- **Backend**: Node.js, Express.js, Kafka, gRPC, REST
-- **Databases**: MongoDB, PostgreSQL  
+- **Backend**: Node.js, Express.js, gRPC, REST
+- **Databases**: MongoDB, PostgreSQL, Supabase (BaaS)
 - **Other Languages**: Java, Python, Go, Javascript, Typescript, C#, C
 - **Tools & Platforms**: Git, GitHub, VSCode (of course)
 
 🎯 **Goals**: 
 - Master full-stack development by building impactful projects.  
 - Gain real-world experience through internships and collaborations.
+- Master using AI to optimise development and agentic engineering
 - Understand networks, devops and cloud engineering!
 
 ---
@@ -53,6 +54,7 @@ A robust, web-based simulation engine designed to optimise airport throughput, m
 
 ## What I’m Currently Learning  
 - Improving my understanding of software engineering principles.
+- Gemini and Claude Code within agentic engineering
 - Exploring the fundamentals of **networks** and the **Cloud**.
 - Working with **Go** and **gRPC**.
 - Deepening my expertise with building applications in **React** and **Typescript**.  
