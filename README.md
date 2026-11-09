@@ -68,4 +68,4 @@ Im always available to connect and collaborate!
 
 ---
 
-When I’m not working on anything, I’m probably grinding for internships or out playing some sport!⚽
+When I’m not working on anything, I’m probably grinding for grad roles or out playing some sport!⚽
