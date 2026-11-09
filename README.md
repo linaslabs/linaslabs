@@ -9,8 +9,8 @@ I'm an enthusiastic computer science student passionate about problem-solving an
 
 ✨ **Languages and Skills**:  
 - **Frontend**: React, Next.js, HTML, CSS, JavaScript
-- **Backend**: Node.js, Express.js, gRPC, REST
-- **Databases**: MongoDB, PostgreSQL, Supabase (BaaS)
+- **Backend**: Node.js, Express.js, gRPC, REST, Supabase (BaaS)
+- **Databases**: MongoDB, PostgreSQL
 - **Other Languages**: Java, Python, Go, Javascript, Typescript, C#, C
 - **Tools & Platforms**: Git, GitHub, VSCode (of course)
 
