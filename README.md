@@ -1,4 +1,3 @@
-# Hi there, I'm Abel 👋  
 🎓 **MEng Computer Science Student @ Warwick University**  
 🌱 Aspiring **Software Engineer** | Exploring **Web Development** and **Infrastructure** 
 
@@ -23,6 +22,12 @@ I'm an enthusiastic computer science student passionate about problem-solving an
 
 ## 💻 My Projects  
 Here are some of the projects I’ve been working on:
+
+### **🌎 Arda**
+A multiplayer 3D God game with nations and civilisations, built in 24 hours at Warwick Hackathon 26 (WHACK26)
+- **Tech Stack**: Next.js, TypeScript, three.js, Supabase
+- **[Repository Link](https://github.com/linaslabs/WHACK26---Warwick-Hackathon)**
+- **[Live Demo](https://play-arda.vercel.app/)**
 
 ### **🎓 GradePilot**
 Currently a work in progress, full stack application to manage your University year!
