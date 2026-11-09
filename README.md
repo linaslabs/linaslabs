@@ -1,6 +1,6 @@
 # Hello! I'm Abel
 🎓 **BSc (Hons) Computer Science Student @ Warwick University**  
-🌱 Aspiring **Software Engineer** | Exploring **Web Development** and **Infrastructure** 
+🌱 Aspiring **Software Engineer** | Exploring **AI**, **Web Development** and **Infrastructure** 
 
 ---
 
