@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About Me  
+## About Me  
 I'm an enthusiastic computer science student passionate about problem-solving and building applications that make an impact. While I’m currently building web applications and exploring the Cloud , I’m eager to dive into various domains of software engineering to find my niche. 
 
 ✨ **Languages and Skills**:  
@@ -51,7 +51,7 @@ A robust, web-based simulation engine designed to optimise airport throughput, m
 
 ---
 
-## 🌱 What I’m Currently Learning  
+## What I’m Currently Learning  
 - Improving my understanding of software engineering principles.
 - Exploring the fundamentals of **networks** and the **Cloud**.
 - Working with **Go** and **gRPC**.
